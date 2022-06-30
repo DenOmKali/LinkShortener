@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="urlshortening">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/urlshortening.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
